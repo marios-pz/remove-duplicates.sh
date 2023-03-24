@@ -1,6 +1,6 @@
 ## How to use 
 ```bash
-$ bash remove-duplicates.sh
+$ bash remove-duplicates.sh directory-to-clean
 ```
 
 ## LICENSE
